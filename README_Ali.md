@@ -4,7 +4,7 @@ Nejat Bede — Project Handover & Development Log
 
 آخرین گزارش: ۳۱ اکتبر ۲۰۲۶
 مدیر پروژه: صاحب پلتفرم نجات بده
-دامنه: "nejatbeedr.ir"
+دامنه: "nejatbede.ir"
 
 ---
 
